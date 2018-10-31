@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="textWrite">Vy 0310 1514154</string>
+    <string name="textRead">UID: %1$s</string>
+    <string name="buttonWrite">WRITE</string>
+    <string name="buttonRead">READ</string>
+    <string name="textResult"></string>
+    <string name="authetication_error">Couldn\'t authenticate for sector.</string>
+    <string name="unknown_error">Uknown error.</string>
+    <string name="write_error">Could not write to sector.</string>
+    <string name="read_error">Could not read block.</string>
+</resources>
